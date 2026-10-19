@@ -66,6 +66,21 @@ android/
 └── gradle.properties
 ```
 
+## 📱 App Screenshots
+
+| Screen | Preview |
+|---|---|
+| Login | ![Login](screenshots/login.png) |
+| Dashboard | ![Dashboard](screenshots/dashboard.png) |
+| Available Courses | ![Available Courses](screenshots/avaible%20course.png) |
+| My Courses | ![My Courses](screenshots/my%20course.png) |
+| Timetable | ![Timetable](screenshots/timetable.png) |
+| Attendance | ![Attendance](screenshots/attendance.png) |
+| Results | ![Results](screenshots/result.png) |
+| Payments | ![Payments](screenshots/payment.png) |
+| Notices | ![Notices](screenshots/notice.png) |
+| Profile | ![Profile](screenshots/profile.png) |
+
 ## Security
 - Token-based auth (no session cookies)
 - Auto-logout on 401 responses
