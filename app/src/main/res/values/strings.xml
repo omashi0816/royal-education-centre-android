@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Royal Edu Center</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your student account</string>
+    <string name="hint_username">Username or Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_logout">Logout</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_timetable">Timetable</string>
+    <string name="nav_more">More</string>
+
+    <!-- Dashboard -->
+    <string name="active_enrollments">Active Courses</string>
+    <string name="attendance_rate">Attendance Rate</string>
+    <string name="pending_payments">Pending Payments</string>
+    <string name="today_classes">Today\'s Classes</string>
+    <string name="recent_results">Recent Results</string>
+    <string name="notices">Notices</string>
+    <string name="view_all">View All</string>
+    <string name="no_classes_today">No classes scheduled for today</string>
+    <string name="no_results_yet">No results available</string>
+    <string name="no_notices">No notices available</string>
+
+    <!-- Courses -->
+    <string name="available_courses">Available Courses</string>
+    <string name="my_enrollments">My Enrollments</string>
+    <string name="enroll">Enroll</string>
+    <string name="no_courses_available">No courses available for enrollment</string>
+    <string name="no_enrollments">You are not enrolled in any course</string>
+    <string name="batch_full">Batch Full</string>
+    <string name="enrolled_count">Enrolled: %1$d / %2$d</string>
+
+    <!-- Timetable -->
+    <string name="weekly_timetable">Weekly Timetable</string>
+    <string name="no_timetable">No timetable available</string>
+
+    <!-- Attendance -->
+    <string name="attendance_history">Attendance History</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="late">Late</string>
+    <string name="no_attendance_records">No attendance records found</string>
+
+    <!-- Exams -->
+    <string name="exams_results">Exams &amp; Results</string>
+    <string name="no_exams">No exams scheduled</string>
+    <string name="marks">Marks</string>
+    <string name="grade">Grade</string>
+    <string name="status_pending">Pending</string>
+
+    <!-- Payments -->
+    <string name="payments">Payments</string>
+    <string name="submit_payment">Submit Payment Request</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="amount">Amount (LKR)</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="remarks">Remarks (Optional)</string>
+    <string name="btn_submit">Submit Request</string>
+    <string name="no_payments">No payment records found</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_pending_payment">Pending</string>
+
+    <!-- Notices -->
+    <string name="all_notices">All Notices</string>
+
+    <!-- Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="student_code">Student Code</string>
+    <string name="education_level">Education Level</string>
+    <string name="school">School</string>
+    <string name="guardian_name">Guardian Name</string>
+    <string name="guardian_phone">Guardian Phone</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+
+    <!-- More menu -->
+    <string name="more_attendance">Attendance</string>
+    <string name="more_exams">Exams &amp; Results</string>
+    <string name="more_payments">Payments</string>
+    <string name="more_notices">Notices</string>
+    <string name="more_profile">My Profile</string>
+
+    <!-- Messages -->
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">No internet connection</string>
+    <string name="success_enrolled">Enrolled successfully!</string>
+    <string name="success_payment_submitted">Payment request submitted successfully!</string>
+    <string name="confirm_logout">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Payment types -->
+    <string-array name="payment_types">
+        <item>Registration Fee</item>
+        <item>Course Fee</item>
+        <item>Monthly Fee</item>
+        <item>Exam Fee</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- Payment methods -->
+    <string-array name="payment_methods">
+        <item>Cash</item>
+        <item>Online</item>
+        <item>Bank Transfer</item>
+        <item>Card</item>
+    </string-array>
+</resources>

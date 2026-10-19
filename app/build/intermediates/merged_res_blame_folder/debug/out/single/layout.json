@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.royaleducenter.student.app-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "com.royaleducenter.student.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_payment.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_enrollment.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_enrollment.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_class.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_day_timetable.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_day_timetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\fragment_timetable.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\fragment_timetable.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_exam.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_exam.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_attendance.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\activity_payments.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\activity_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_course.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_timetable_slot.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_timetable_slot.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\activity_attendance.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\activity_notices.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\activity_notices.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\fragment_more.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_result.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\fragment_courses.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\fragment_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_notice_full.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_notice_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\activity_exams.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\activity_exams.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_notice.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-mergeDebugResources-45:\\layout\\item_profile_field.xml",
+        "source": "C:\\Users\\omash\\.gradle\\daemon\\8.5\\com.royaleducenter.student.app-main-48:\\layout\\item_profile_field.xml"
+    }
+]

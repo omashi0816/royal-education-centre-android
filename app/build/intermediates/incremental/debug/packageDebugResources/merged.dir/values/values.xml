@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="payment_methods">
+        <item>Cash</item>
+        <item>Online</item>
+        <item>Bank Transfer</item>
+        <item>Card</item>
+    </string-array>
+    <string-array name="payment_types">
+        <item>Registration Fee</item>
+        <item>Course Fee</item>
+        <item>Monthly Fee</item>
+        <item>Exam Fee</item>
+        <item>Other</item>
+    </string-array>
+    <color name="accent">#F39C12</color>
+    <color name="accent_dark">#D68910</color>
+    <color name="badge_bg">#EAEDED</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_light">#F5F6FA</color>
+    <color name="black">#000000</color>
+    <color name="danger">#E74C3C</color>
+    <color name="divider">#E8E8E8</color>
+    <color name="info">#3498DB</color>
+    <color name="primary">#1B4F72</color>
+    <color name="primary_dark">#0E2F4A</color>
+    <color name="primary_light">#2E86C1</color>
+    <color name="success">#27AE60</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6C7A89</color>
+    <color name="warning">#F39C12</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="card_radius">12dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="text_lg">20sp</dimen>
+    <dimen name="text_md">16sp</dimen>
+    <dimen name="text_sm">14sp</dimen>
+    <dimen name="text_xl">28sp</dimen>
+    <string name="absent">Absent</string>
+    <string name="active_enrollments">Active Courses</string>
+    <string name="address">Address</string>
+    <string name="all_notices">All Notices</string>
+    <string name="amount">Amount (LKR)</string>
+    <string name="app_name">Royal Edu Center</string>
+    <string name="attendance_history">Attendance History</string>
+    <string name="attendance_rate">Attendance Rate</string>
+    <string name="available_courses">Available Courses</string>
+    <string name="batch_full">Batch Full</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_submit">Submit Request</string>
+    <string name="city">City</string>
+    <string name="confirm_logout">Are you sure you want to logout?</string>
+    <string name="education_level">Education Level</string>
+    <string name="enroll">Enroll</string>
+    <string name="enrolled_count">Enrolled: %1$d / %2$d</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">No internet connection</string>
+    <string name="exams_results">Exams &amp; Results</string>
+    <string name="grade">Grade</string>
+    <string name="guardian_name">Guardian Name</string>
+    <string name="guardian_phone">Guardian Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username or Email</string>
+    <string name="late">Late</string>
+    <string name="loading">Loading…</string>
+    <string name="login_subtitle">Sign in to your student account</string>
+    <string name="marks">Marks</string>
+    <string name="more_attendance">Attendance</string>
+    <string name="more_exams">Exams &amp; Results</string>
+    <string name="more_notices">Notices</string>
+    <string name="more_payments">Payments</string>
+    <string name="more_profile">My Profile</string>
+    <string name="my_enrollments">My Enrollments</string>
+    <string name="my_profile">My Profile</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_more">More</string>
+    <string name="nav_timetable">Timetable</string>
+    <string name="no">No</string>
+    <string name="no_attendance_records">No attendance records found</string>
+    <string name="no_classes_today">No classes scheduled for today</string>
+    <string name="no_courses_available">No courses available for enrollment</string>
+    <string name="no_enrollments">You are not enrolled in any course</string>
+    <string name="no_exams">No exams scheduled</string>
+    <string name="no_notices">No notices available</string>
+    <string name="no_payments">No payment records found</string>
+    <string name="no_results_yet">No results available</string>
+    <string name="no_timetable">No timetable available</string>
+    <string name="notices">Notices</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="payments">Payments</string>
+    <string name="pending_payments">Pending Payments</string>
+    <string name="present">Present</string>
+    <string name="recent_results">Recent Results</string>
+    <string name="remarks">Remarks (Optional)</string>
+    <string name="school">School</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_pending_payment">Pending</string>
+    <string name="student_code">Student Code</string>
+    <string name="submit_payment">Submit Payment Request</string>
+    <string name="success_enrolled">Enrolled successfully!</string>
+    <string name="success_payment_submitted">Payment request submitted successfully!</string>
+    <string name="today_classes">Today\'s Classes</string>
+    <string name="view_all">View All</string>
+    <string name="weekly_timetable">Weekly Timetable</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="yes">Yes</string>
+    <style name="TextAppearance.RoyalEdu.Subtitle" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="TextAppearance.RoyalEdu.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="Theme.RoyalEdu" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/bg_light</item>
+        <item name="colorSurface">@color/bg_card</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary_dark</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+    <style name="Theme.RoyalEdu.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Widget.RoyalEdu.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">8dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+    <style name="Widget.RoyalEdu.CardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/bg_card</item>
+    </style>
+    <style name="Widget.RoyalEdu.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+    </style>
+</resources>
